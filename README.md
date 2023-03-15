@@ -10,5 +10,7 @@ Here are a few of my research prototypes:
  - [ALSim](https://github.com/levon003/ALSim): a simulation library that implements several state-of-the-art active learning algorithms.
  - [wiki-ores-feedback](https://github.com/levon003/wiki-ores-feedback): a web app and auditing analysis for vandalism detection classifiers on Wikipedia.
 
+<img src="images/data_oohlala.png" width="100">
+
 ![Data science is when you make graphs from random noise](images/data_oohlala.png)
 
