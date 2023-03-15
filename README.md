@@ -9,3 +9,6 @@ Here are a few of my research prototypes:
  - [HealthBlogRec](https://github.com/levon003/HealthBlogRec): a prototype deep learning recommender system for health blogs.
  - [ALSim](https://github.com/levon003/ALSim): a simulation library that implements several state-of-the-art active learning algorithms.
  - [wiki-ores-feedback](https://github.com/levon003/wiki-ores-feedback): a web app and auditing analysis for vandalism detection classifiers on Wikipedia.
+
+![Data science is when you make graphs from random noise](images/data_oohlala.png)
+
