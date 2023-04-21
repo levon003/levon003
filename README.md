@@ -10,9 +10,11 @@ Here are a few of my research prototypes:
  - [ALSim](https://github.com/levon003/ALSim): a simulation library that implements several state-of-the-art active learning algorithms.
  - [wiki-ores-feedback](https://github.com/levon003/wiki-ores-feedback): a web app and auditing analysis for vandalism detection classifiers on Wikipedia.
 
-And here's an example of a standalone analysis: exploratory modeling with COVID-19 patient data from my time at ConcertAI:
+And here's an example of some standalone analyses:
 
- - [covid-data-analysis](https://github.com/levon003/covid-data-analysis): explainable logistic regression models with `Pandas`, `statsmodels`, `scikit-learn`, and `pytest`.
+ - [covid-data-analysis](https://github.com/levon003/covid-data-analysis): Exploratory modeling with COVID-19 patient data. Explainable logistic regression models with `Pandas`, `statsmodels`, `scikit-learn`, and `pytest`.
+ - [biomarker-case-study](https://github.com/levon003/biomarker-case-study): High-performance binary classification with patient demographic and biomarker data. Gradient Boosting Machines with `Pandas` and `scikit-learn`.
+
 
 <img src="images/data_oohlala.png" alt="Data science is when you make graphs from random noise" style="width: auto; height: 30vh" />
 
