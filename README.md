@@ -4,6 +4,8 @@ Hi there! I'm a data scientist and researcher.
 
 You can learn more about my research interests [on my homepage](https://www-users.cse.umn.edu/~levon003/).
 
+My most recent release is [llm-math-education](https://github.com/levon003/llm-math-education), a Python package implementing retrieval agumented generation with GPT-3.5 to support middle-school math tutoring.  
+
 Here are a few of my research prototypes:
 
  - [HealthBlogRec](https://github.com/levon003/HealthBlogRec): a prototype deep learning recommender system for health blogs.
