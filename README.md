@@ -4,7 +4,7 @@ Hi there! I'm a data scientist and researcher.
 
 You can learn more about my research interests [on my homepage](https://levon003.github.io).
 
-My most recent release is [llm-math-education](https://github.com/levon003/llm-math-education), a Python package implementing retrieval agumented generation with ChatGPT to support middle-school math tutoring.  
+My most recent release is [llm-math-education](https://github.com/levon003/llm-math-education), a Python package implementing retrieval-augmented generation for ChatGPT to support middle-school math tutoring.  
 
 Here are a few of my research prototypes:
 
